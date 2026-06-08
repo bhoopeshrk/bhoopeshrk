@@ -67,9 +67,9 @@ I'm a freelance software engineer specializing in full-stack web development and
 
 <div align="center">
 
-![Bhoopesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoopeshrk&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Bhoopesh's GitHub Stats](https://github-readme-stats-bhoopeshrk.vercel.app/api?username=bhoopeshrk&show_icons=true&include_all_commits=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoopeshrk&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-bhoopeshrk.vercel.app//api/top-langs/?username=bhoopeshrk&langs_count=20&layout=normal&theme=default&hide_border=true)
 
 </div>
 
